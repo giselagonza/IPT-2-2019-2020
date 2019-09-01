@@ -1,0 +1,18 @@
+Hellow Gisela!
+got interested in your Machine Learning thing.... Want to be of help whenever you need it!!
+
+lets:
+import help from people
+
+help.request(anything_you_want)
+
+if help.available:
+    # will try to solve
+elif help.unavailable:
+    # will checkout other people
+else:
+    # that will never happen
+    pass
+
+
+print("lot's of love from Sanga Emanuel A, your bro at Manzese")
